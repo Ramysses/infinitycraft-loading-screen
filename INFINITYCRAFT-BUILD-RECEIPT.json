@@ -6,11 +6,14 @@
   "buildSuccessful": true,
   "rebuiltSha256": "a80f8014dd27bed3a87bd83ed0ae020672ea11d0bbed98c9140621742381c948",
   "approvedBinaryByteIdentityClaimed": false,
-  "runtimeTestOfRebuiltJar": false,
+  "runtimeTestOfRebuiltJar": true,
   "publicUploadAllowed": false,
-  "sourcePublished": false,
+  "sourcePublished": true,
   "corrections": [
     "Forge Maven HTTP to HTTPS",
     "Retired S3 client/server URLs to immutable Mojang object URLs using DelayedString"
-  ]
+  ],
+  "runtimeScope": "Rebuilt JAR SHA-256 a80f8014dd27bed3a87bd83ed0ae020672ea11d0bbed98c9140621742381c948 loaded in the isolated Forge client and displayed the customized loading screen. This does not certify a CurseForge modpack or replace approval for a new binary.",
+  "sourceRepository": "https://github.com/Ramysses/infinitycraft-loading-screen",
+  "newBinarySubmitted": false
 }
