@@ -1,0 +1,16 @@
+[
+{
+  "modid": "betterloadingscreen",
+  "name": "Better Loading Screen",
+  "description": "A better loading screen that shows you the status of minecraft's loading time",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["AlexIIL"],
+  "credits": "",
+  "logoFile": "assets/betterloadingscreen/textures/logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]

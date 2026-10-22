@@ -1,0 +1,9 @@
+{
+  "binaryInputsNotRedistributed": {
+    "gradle/wrapper/gradle-wrapper.jar": "80a33ca14e3bca3116bc8749550397f739f126190c82bb6399fdc8d10f49661f",
+    "libs/liteloader-1.7.10.jar": "a30e91e7abfcf482fd740893a207e2e00eb6a24d3909bfa2939a13b3c1703b7b"
+  },
+  "gradle": "2.0",
+  "java": "8",
+  "upstream": "https://github.com/AlexIIL/BetterLoadingScreen_1.7/tree/1cdaef88aad41ce62a508ed5214f86f182851e13"
+}

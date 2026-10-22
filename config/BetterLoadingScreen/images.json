@@ -1,0 +1,102 @@
+[
+  {
+    "resourceLocation": "",
+    "positionType": null,
+    "type": "CLEAR_COLOUR",
+    "texture": null,
+    "position": null,
+    "colour": "08071A",
+    "text": null,
+    "comment": "Fundo de segurança"
+  },
+  {
+    "resourceLocation": "betterloadingscreen:textures/infinitycraft-fullscreen.png",
+    "positionType": "TOP_LEFT",
+    "type": "STATIC",
+    "texture": {
+      "x": 0,
+      "y": 0,
+      "width": 2048,
+      "height": 2048
+    },
+    "position": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0
+    },
+    "colour": "FFFFFF",
+    "text": null,
+    "comment": "Arte InfinityCraft em tela inteira"
+  },
+  {
+    "resourceLocation": "textures/font/ascii.png",
+    "positionType": "BOTTOM_LEFT",
+    "type": "DYNAMIC_TEXT_STATUS",
+    "texture": null,
+    "position": {
+      "x": 42,
+      "y": 62,
+      "width": 0,
+      "height": 0
+    },
+    "colour": "F5F6FA",
+    "text": null,
+    "comment": "Etapa atual"
+  },
+  {
+    "resourceLocation": "textures/font/ascii.png",
+    "positionType": "BOTTOM_LEFT",
+    "type": "DYNAMIC_TEXT_PERCENTAGE",
+    "texture": null,
+    "position": {
+      "x": 42,
+      "y": 46,
+      "width": 0,
+      "height": 0
+    },
+    "colour": "FFBC2E",
+    "text": null,
+    "comment": "Progresso"
+  },
+  {
+    "resourceLocation": "betterloadingscreen:textures/progress-infinitycraft.png",
+    "positionType": "BOTTOM_LEFT",
+    "type": "STATIC",
+    "texture": {
+      "x": 0,
+      "y": 10,
+      "width": 2048,
+      "height": 6
+    },
+    "position": {
+      "x": 42,
+      "y": 27,
+      "width": 320,
+      "height": 9
+    },
+    "colour": "FFFFFF",
+    "text": null,
+    "comment": "Trilho da barra"
+  },
+  {
+    "resourceLocation": "betterloadingscreen:textures/progress-infinitycraft.png",
+    "positionType": "BOTTOM_LEFT",
+    "type": "DYNAMIC_PERCENTAGE",
+    "texture": {
+      "x": 0,
+      "y": 17,
+      "width": 2048,
+      "height": 6
+    },
+    "position": {
+      "x": 42,
+      "y": 27,
+      "width": 320,
+      "height": 9
+    },
+    "colour": "FFBC2E",
+    "text": null,
+    "comment": "Barra de progresso"
+  }
+]

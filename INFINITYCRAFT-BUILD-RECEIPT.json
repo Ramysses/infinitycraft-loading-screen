@@ -1,0 +1,16 @@
+{
+  "upstreamCommit": "1cdaef88aad41ce62a508ed5214f86f182851e13",
+  "java": "8u504",
+  "gradle": "2.0",
+  "forgeCompileVersion": "10.13.4.1492",
+  "buildSuccessful": true,
+  "rebuiltSha256": "a80f8014dd27bed3a87bd83ed0ae020672ea11d0bbed98c9140621742381c948",
+  "approvedBinaryByteIdentityClaimed": false,
+  "runtimeTestOfRebuiltJar": false,
+  "publicUploadAllowed": false,
+  "sourcePublished": false,
+  "corrections": [
+    "Forge Maven HTTP to HTTPS",
+    "Retired S3 client/server URLs to immutable Mojang object URLs using DelayedString"
+  ]
+}

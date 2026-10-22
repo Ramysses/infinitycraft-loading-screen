@@ -1,0 +1,6 @@
+/build/
+/.gradle/
+/eclipse/
+/libs/*.jar
+/gradle/wrapper/*.jar
+*.log
