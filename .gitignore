@@ -1,5 +1,8 @@
 /build/
+/aedf1-152/build/
 /.gradle/
+/.agents/
+/.codex/
 /eclipse/
 /libs/*.jar
 /gradle/wrapper/*.jar
